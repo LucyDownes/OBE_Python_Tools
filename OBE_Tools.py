@@ -8,7 +8,7 @@ Author: Lucy Downes (lucy.downes@durham.ac.uk)
 Date: 12/07/2023
 
 Requires:
-Numpy, Scipy (contants, stats, linalg) and Sympy.
+Numpy, Scipy (constants, stats, linalg) and Sympy.
 '''
 
 import numpy
