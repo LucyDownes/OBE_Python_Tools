@@ -1,3 +1,5 @@
+## Package requirements for running in Binder
+
 numpy
 scipy
 matplotlib
