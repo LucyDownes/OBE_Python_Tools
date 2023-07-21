@@ -2,6 +2,7 @@
 
 OBE Tools is a collection of functions written in Python that provide solution methods for the optical Bloch equations (OBEs). Alongside the functions available in the `OBE_Tools.py` module are two Jupyer notebooks containing more information on how the functions are set up (`Functions.ipynb`) and examples of how they can be used to model atom-light systems (`Examples.ipynb`). For more information please see the publication _Simple Python tools for modelling few-level atom-light interactions_.
 
+To run the Jupyter notebooks in an interactive browser window, click here:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucyDownes/OBE_Python_Tools/HEAD)
 
 ### Prerequisites
